@@ -1,0 +1,37 @@
+ The Programming4 assignment output is as follows
+
+Testing hash function 0 using double hash 0.
+Total collisions = 440.
+||||||||||||||||||-|---|-----------------------------------------|||||||||||||||||||||||||||||||||||
+
+Testing hash function 0 using double hash 1.
+Total collisions = 459.
+||||-|-|||-|-|||-|-|---|--------------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|||-|||-|||-||||||||||||
+
+Testing hash function 0 using double hash 2.
+Total collisions = 64.
+||||-|-|||-|-|||-|-|--||--|-|------|-|||-|||||||||||||--------------------|--||--|-|||-|||||||||||||
+
+Testing hash function 1 using double hash 0.
+Total collisions = 7.
+--|-----||-|--|-|-|----|||||-|--|-|||--|||||--|||||-||-||||-||--|-||||||----|-|-||----|||-|----|||||
+
+Testing hash function 1 using double hash 1.
+Total collisions = 11.
+--|-----||-|--|-|-|----|||||-|--|-|||--||||||-|||-||||-|-||-||--||||||-|----|-|-||----|||-|----|||||
+
+Testing hash function 1 using double hash 2.
+Total collisions = 10.
+--|-----||-|--|-|||-----||||-|--|-|||-||||||-||||-|-||-|-||-||-||--|||-|----|-|-||----|||-|--|-|||||
+
+Testing hash function 2 using double hash 0.
+Total collisions = 725.
+---||||||||||||||||||||||||||||||||||||||||||||||||||------------------------------------------|||||
+
+Testing hash function 2 using double hash 1.
+Total collisions = 975.
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-||||||-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|||||
+
+Testing hash function 2 using double hash 2.
+Total collisions = 124.
+|--|||----|--|--||---|-||-||--||---|||||||--||-|-|||||--------|||---|---|--||||-||--|||-||||||-|||||
